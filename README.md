@@ -1,0 +1,6 @@
+# 理财项目租赁机器人-多种投资方式USDT
+
+代码仅供学习研究，禁止用于非法用途！！！代码为编译后代码，需要源码的，可联系我们咨询价格<br>系统拥有知识产权，帮您打消担心买到盗版的顾虑<br>演示地址：<br>前端：<br>example.com/#/<br>账号：15806548888 密码：123456<br>后端：<br>example.com/admin<br>账号：admin 密码：联系客服QQ：403621775<br><br>8大功能卖点1、注册方式未邀请制注册，没有邀请的不能注册2、根据产品设置分销比例，用户邀请朋友能获得对应百分比奖励3、团队等级划分，满足等级自动升级并可获取团队奖励4、租赁获取积分功能，每日签到送积分，积分可以领取奖品5、多种投资方式，到期返本返息和周期付息，到期还本6、实名认证以后才可投资和提现7、投资和提现必须输入支付密码<br>8、代理等级，后台可以设置等级和代理奖励<br>=================================================================<br>免责声明：<br>  购买前有演示的先看演示站测试，没演示的先联系客服询问完在下单，保证与演示站相同。<br>  本软件系统产品使用用途仅限于测试实验、研究学习为目的，请勿用于商业途径及非法运营，购买用户严禁将本产品用于与中国现行法律相违背的一切行为；否则，请停止购买，如坚持购买使用一切法律责任及所有后果均由购买使用方承担，与本店无关，并且本店有权停止一切相关服务；特此声明<br><br><br><br><br><br><br><br><br><br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/6TxfL" style="color: red;">https://mega-file.org/6TxfL</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
